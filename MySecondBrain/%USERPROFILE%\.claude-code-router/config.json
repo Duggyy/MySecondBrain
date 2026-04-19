@@ -1,0 +1,16 @@
+{
+"PORT": 3456,
+"Providers": [
+{
+"name": "openrouter",
+"api_base_url": "https://openrouter.ai/api/v1/chat/completions",
+"api_key": "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",
+"models": [
+"qwen/qwen3-coder-32b"
+]
+}
+],
+"Router": {
+"default": "openrouter,qwen/qwen3-coder-32b"
+}
+}

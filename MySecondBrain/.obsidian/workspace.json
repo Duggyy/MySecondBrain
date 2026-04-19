@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Clippings/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
+                    "file": "VIBEPROXY-CLAUDE-CODE-SETUP.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS)"
+                  "title": "VIBEPROXY-CLAUDE-CODE-SETUP"
                 }
               }
             ]
@@ -260,8 +260,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b8a012407a59c14",
+  "active": "846a792dbbd879a3",
   "lastOpenFiles": [
+    "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
+    "VIBEPROXY-CLAUDE-CODE-SETUP.md",
     "Clippings/⚙️Настройка Прокси в ADS Power.md",
     "Clippings/Полная настройка антидетект-браузера ADS-Power + всё что нужно знать про этот браузер.md",
     "Clippings/Run Gemma 4 31B FREE in Claude Code — No GPU Needed (Ollama Cloud).md",
@@ -271,7 +273,6 @@
     "Clippings/Claude Code бесплатно бесплатный AI-агент для работы без ограничений (полная инструкция).md",
     "Clippings/Claude Code НАВСЕГДА бесплатно мощный AI-агент для работы без ограничений (полная инструкция).md",
     "Clippings/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
-    "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
     "Clippings/Gemini CLI полностью бесплатный аналог Claude Code и Codex  Полная настройка Gemini CLI.md",
     "Clippings/YouTube → NotebookLM за 20 минут Claude Code делает всё сам.md",
     "Clippings/Obsidian + Claude Code Как ИИ сам читает Telegram и строит базу знаний.md",

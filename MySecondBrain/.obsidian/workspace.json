@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Welcome.md",
+                    "file": "Clippings/⚙️Настройка Прокси в ADS Power.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Welcome"
+                  "title": "⚙️Настройка Прокси в ADS Power"
                 }
               }
             ]
@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/⚙️Настройка Прокси в ADS Power.md",
+                "file": "VIBEPROXY-CLAUDE-CODE-SETUP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚙️Настройка Прокси в ADS Power"
+              "title": "VIBEPROXY-CLAUDE-CODE-SETUP"
             }
           }
         ]
@@ -260,16 +260,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "846a792dbbd879a3",
+  "active": "6b8a012407a59c14",
   "lastOpenFiles": [
+    "VIBEPROXY-CLAUDE-CODE-SETUP.md",
+    "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
+    "Clippings/⚙️Настройка Прокси в ADS Power.md",
+    "Clippings/Полная настройка антидетект-браузера ADS-Power + всё что нужно знать про этот браузер.md",
+    "Welcome.md",
     "Без названия 1.base",
     "Без названия.base",
-    "Clippings/⚙️Настройка Прокси в ADS Power.md",
     "Без названия.canvas",
-    "VIBEPROXY-CLAUDE-CODE-SETUP.md",
     "CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
-    "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
-    "Clippings/Полная настройка антидетект-браузера ADS-Power + всё что нужно знать про этот браузер.md",
     "Clippings/Run Gemma 4 31B FREE in Claude Code — No GPU Needed (Ollama Cloud).md",
     "Clippings/Я создал VPN с помощью нейросети и он работает!.md",
     "Clippings/I Automated My Pre-Market Research With AI (Here's How).md",
@@ -283,7 +284,6 @@
     "Clippings/Telegram + Claude Code база знаний по методу Карпати за 10 минут.md",
     "Clippings/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
     "Clippings/Claude Code + Karpathy's Obsidian = New Meta.md",
-    "Welcome.md",
     "Clippings"
   ]
 }

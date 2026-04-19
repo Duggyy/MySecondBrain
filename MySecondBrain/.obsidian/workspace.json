@@ -70,7 +70,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Claude Code"
+                  "title": "Terminal: zsh"
                 }
               }
             ]
@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Claude Code НАВСЕГДА бесплатно мощный AI-агент для работы без ограничений (полная инструкция).md",
+                "file": "Clippings/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code НАВСЕГДА бесплатно мощный AI-агент для работы без ограничений (полная инструкция)"
+              "title": "Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!"
             }
           }
         ]
@@ -262,8 +262,9 @@
   },
   "active": "8b7844b590ff5c6e",
   "lastOpenFiles": [
-    "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
     "Clippings/Claude Code НАВСЕГДА бесплатно мощный AI-агент для работы без ограничений (полная инструкция).md",
+    "Clippings/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
+    "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
     "Clippings/Gemini CLI полностью бесплатный аналог Claude Code и Codex  Полная настройка Gemini CLI.md",
     "Clippings/Claude Code бесплатно бесплатный AI-агент для работы без ограничений (полная инструкция).md",
     "Clippings/YouTube → NotebookLM за 20 минут Claude Code делает всё сам.md",

@@ -9,8 +9,8 @@
 "qwen/qwen3-coder-32b"
 ]
 }
-],
+[,
 "Router": {
 "default": "openrouter,qwen/qwen3-coder-32b"
 }
-}
+]

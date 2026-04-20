@@ -1,5 +1,16 @@
 # Wiki Log
 
+## [2026-04-20] ingest | free_access category (2 sources)
+
+- Type: youtube (Игорь Зуевич, Дрессировщик Нейросетей)
+- Topics: [gemini-cli, free-access, antigravity, vibe-proxy, opus, sonnet]
+- New pages:
+  - wiki/sources/gemini_cli_tutorial.md
+  - wiki/sources/vibe_proxy_tutorial.md
+  - wiki/concepts/free_access_methods.md
+- Updated pages: none
+- Notes: Gemini CLI — 2M context, free. Vibe Proxy — bypass Antigravity limits for Opus/Sonnet.
+
 ## [2026-04-20] ingest | CliClaw + QwenClaw tutorials (ai_agents)
 
 - Type: youtube (Вайбкодим бабки)

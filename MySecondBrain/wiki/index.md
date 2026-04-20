@@ -4,7 +4,8 @@
 
 - [[llm_wiki|llm_wiki.md]] — LLM Wiki pattern: persistent compounding wiki vs RAG | src: 2
 - [[memory_system_taxonomy|memory_system_taxonomy.md]] — Taxonomy: CLAUDE.md (identity), Obsidian (reasoning), Pinecone (warehouse) | src: 1
-- [[telegram_ai_agents|telegram_ai_agents.md]] — Telegram-based AI agents (QwenClaw, CliClaw) architecture and comparisons | src: 2
+- [[telegram_ai_agents|telegram_ai_agents.md]] — Telegram-based AI agents (QwenClaw, CliClaw) architecture | src: 2
+- [[free_access_methods|free_access_methods.md]] — Overview of free/cheap access methods (Gemini CLI, OpenRouter, Vibe Proxy, Antigravity) | src: 2
 
 ## Entities
 
@@ -17,6 +18,8 @@
 - [[claude_code_karpathy_obsidian|claude_code_karpathy_obsidian.md]] — Jack Roberts' practical guide to Obsidian memory system | lang: en | date: 2026-04-18
 - [[qwenclaw_tutorial|qwenclaw_tutorial.md]] — QwenClaw setup (deprecated: free limits cut) | lang: ru | date: 2026-04-12
 - [[cliclaw_tutorial|cliclaw_tutorial.md]] — CliClaw: multi-model Telegram agent with persistent memory | lang: ru | date: 2026-04-19
+- [[gemini_cli_tutorial|gemini_cli_tutorial.md]] — Gemini CLI: 2M context window, free, Google Workspace integration | lang: ru | date: 2026-04-18
+- [[vibe_proxy_tutorial|vibe_proxy_tutorial.md]] — Vibe Proxy: bypass AntiGravity limits for free Opus/Sonnet | lang: ru | date: 2026-01-10
 
 ## Trends
 

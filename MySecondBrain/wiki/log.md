@@ -1,5 +1,17 @@
 # Wiki Log
 
+## [2026-04-20] ingest | trading + infrastructure categories
+
+- Type: youtube
+- Topics: [trading, tradingview, vpn, vps, infrastructure]
+- New pages:
+  - wiki/sources/tradingview_claude_integration.md
+  - wiki/sources/ai_trading_assistant_blueprint.md
+  - wiki/sources/vpn_setup_with_claude_code.md
+  - wiki/concepts/ai_in_trading.md
+  - wiki/concepts/infrastructure.md
+- Updated pages: none
+
 ## [2026-04-20] ingest | free_access category (2 sources)
 
 - Type: youtube (Игорь Зуевич, Дрессировщик Нейросетей)
@@ -9,7 +21,6 @@
   - wiki/sources/vibe_proxy_tutorial.md
   - wiki/concepts/free_access_methods.md
 - Updated pages: none
-- Notes: Gemini CLI — 2M context, free. Vibe Proxy — bypass Antigravity limits for Opus/Sonnet.
 
 ## [2026-04-20] ingest | CliClaw + QwenClaw tutorials (ai_agents)
 
@@ -20,7 +31,6 @@
   - wiki/sources/qwenclaw_tutorial.md
   - wiki/concepts/telegram_ai_agents.md
 - Updated pages: none
-- Notes: QwenClaw deprecated (limits cut day after release). CliClaw is the recommended replacement (Claude/Codex/Gemini/OpenRouter support).
 
 ## [2026-04-20] ingest | Claude Code + Karpathy's Obsidian = New Meta
 
@@ -31,7 +41,6 @@
   - wiki/entities/jack_roberts.md
   - wiki/concepts/memory_system_taxonomy.md
 - Updated pages: none
-- Notes: Introduced memory system taxonomy (identity/reasoning/warehouse). Key insight: Obsidian for reasoning, Pinecone for exact recall.
 
 ## [2026-04-20] ingest | KARPATHY-llm-wiki.md
 
@@ -42,7 +51,6 @@
   - wiki/sources/karpathy_llm_wiki.md
   - wiki/entities/andre_karpathy.md
 - Updated pages: none
-- Notes: First ingest — established foundational concept for the entire wiki
 
 ## [2026-04-20] init | Wiki initialized
 

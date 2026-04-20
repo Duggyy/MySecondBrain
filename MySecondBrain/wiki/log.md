@@ -1,10 +1,15 @@
 # Wiki Log
 
-## [2026-04-20] init | Wiki initialized
+## [2026-04-20] ingest | CliClaw + QwenClaw tutorials (ai_agents)
 
-- Schema created: CLAUDE.md
-- Directories created: raw/, wiki/
-- Subdirectories: youtube/, articles/, documents/, telegram/ under raw; concepts/, entities/, sources/, trends/, synthesis/ under wiki
+- Type: youtube (Вайбкодим бабки)
+- Topics: [ai-agent, cliclaw, qwenclaw, telegram, vps, deprecated]
+- New pages:
+  - wiki/sources/cliclaw_tutorial.md
+  - wiki/sources/qwenclaw_tutorial.md
+  - wiki/concepts/telegram_ai_agents.md
+- Updated pages: none
+- Notes: QwenClaw deprecated (limits cut day after release). CliClaw is the recommended replacement (Claude/Codex/Gemini/OpenRouter support).
 
 ## [2026-04-20] ingest | Claude Code + Karpathy's Obsidian = New Meta
 
@@ -27,3 +32,9 @@
   - wiki/entities/andre_karpathy.md
 - Updated pages: none
 - Notes: First ingest — established foundational concept for the entire wiki
+
+## [2026-04-20] init | Wiki initialized
+
+- Schema created: CLAUDE.md
+- Directories created: raw/, wiki/
+- Subdirectories: youtube/, articles/, documents/, telegram/ under raw; concepts/, entities/, sources/, trends/, synthesis/ under wiki

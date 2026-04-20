@@ -70,7 +70,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Claude Code"
+                  "title": "Terminal: zsh"
                 }
               },
               {
@@ -325,6 +325,19 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/trends",
+    "wiki/synthesis",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "raw/youtube",
+    "raw/telegram",
+    "raw/documents",
+    "raw/articles",
+    "CLAUDE.md",
     "Clippings/Claude Code бесплатно бесплатный AI-агент для работы без ограничений (полная инструкция).md",
     "Clippings/KARPATHY-llm-wiki.md",
     "Clippings/Claude Code НАВСЕГДА бесплатно мощный AI-агент для работы без ограничений (полная инструкция).md",
@@ -336,7 +349,6 @@
     "Clippings/YouTube → NotebookLM за 20 минут Claude Code делает всё сам.md",
     "Clippings/Claude Code + Karpathy's Obsidian = New Meta.md",
     "Clippings/Как продолжить пользоваться Cursor бесплатно 🔥  Обход лимита и установка Cursor Free VIP.md",
-    "Clippings/TradingView MCP.pdf",
     "Clippings/Как подключить Claude Code к TradingView (это меняет правила игры).md",
     "Clippings/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
     "Clippings/100% FREE Claude Code? Yes — Here’s How.md",
@@ -345,17 +357,10 @@
     "Clippings/Получи бесплатно API для любой ИИ-модели (2026 Claude, OpenAI, Gemini и другие).md",
     "Clippings/Claude Code + OpenRouter = FREE FOREVER (Unlimited Power).md",
     "Clippings/⚙️Настройка Прокси в ADS Power.md",
-    "nul",
     "VIBEPROXY-CLAUDE-CODE-SETUP.md",
     "Clippings/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
     "Clippings/Полная настройка антидетект-браузера ADS-Power + всё что нужно знать про этот браузер.md",
     "Welcome.md",
-    "Без названия 1.base",
-    "Без названия.base",
-    "Без названия.canvas",
-    "CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
-    "Clippings/Run Gemma 4 31B FREE in Claude Code — No GPU Needed (Ollama Cloud).md",
-    "Clippings/Я создал VPN с помощью нейросети и он работает!.md",
-    "Clippings"
+    "Без названия.canvas"
   ]
 }

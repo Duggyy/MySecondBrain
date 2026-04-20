@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Clippings/Claude Routines автоматизируй ВСЁ за 5 минут.md",
+                    "file": "Clippings/Как подключить Claude Code к TradingView (это меняет правила игры).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Claude Routines автоматизируй ВСЁ за 5 минут"
+                  "title": "Как подключить Claude Code к TradingView (это меняет правила игры)"
                 }
               }
             ]
@@ -346,8 +346,9 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "Clippings/100% FREE Claude Code? Yes — Here’s How.md",
     "Clippings/Claude Routines автоматизируй ВСЁ за 5 минут.md",
+    "Clippings/Как подключить Claude Code к TradingView (это меняет правила игры).md",
+    "Clippings/100% FREE Claude Code? Yes — Here’s How.md",
     "Clippings/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
     "Clippings/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
     "Clippings/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
@@ -375,7 +376,6 @@
     "Clippings/Obsidian + Claude Code Как ИИ сам читает Telegram и строит базу знаний.md",
     "Clippings/Telegram + Claude Code база знаний по методу Карпати за 10 минут.md",
     "Clippings/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
-    "Clippings/Claude Code + Karpathy's Obsidian = New Meta.md",
     "Clippings"
   ]
 }

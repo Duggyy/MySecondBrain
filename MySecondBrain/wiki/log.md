@@ -52,6 +52,12 @@
   - wiki/entities/andre_karpathy.md
 - Updated pages: none
 
+## [2026-04-21] session | Continued wiki maintenance
+
+- Loose files moved to infrastructure/: CLIPROXYAPIPLUS-WINDOWS-SETUP.md, VIBEPROXY-CLAUDE-CODE-SETUP.md
+- Memory system initialized
+- Raw/ state verified, no new sources to process
+
 ## [2026-04-20] init | Wiki initialized
 
 - Schema created: CLAUDE.md

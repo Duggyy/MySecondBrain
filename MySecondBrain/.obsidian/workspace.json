@@ -233,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS)"
             }
           },
           {
@@ -322,8 +323,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b8a012407a59c14",
+  "active": "aa539a0591c8173a",
   "lastOpenFiles": [
+    "raw/infrastructure/VIBEPROXY-CLAUDE-CODE-SETUP.md",
+    "raw/infrastructure/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
+    "raw/trading/How To Build Your Own Claude AI Trading Assistant (Easy For Beginners).md",
+    "raw/trading/I Automated My Pre-Market Research With AI (Here's How).md",
+    "raw/trading/Как подключить Claude Code к TradingView (это меняет правила игры).md",
     "raw/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
     "raw/VIBEPROXY-CLAUDE-CODE-SETUP.md",
     "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
@@ -346,11 +352,6 @@
     "wiki/entities/dressirovshik_neyrosetey.md",
     "wiki/concepts/infrastructure.md",
     "wiki/sources/vpn_setup_with_claude_code.md",
-    "wiki/concepts/ai_in_trading.md",
-    "wiki/sources/ai_trading_assistant_blueprint.md",
-    "wiki/sources/tradingview_claude_integration.md",
-    "wiki/concepts/free_access_methods.md",
-    "wiki/sources/vibe_proxy_tutorial.md",
     "raw/ide_integrations",
     "raw/knowledge_base",
     "raw/infrastructure",

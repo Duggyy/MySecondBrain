@@ -52,11 +52,16 @@
   - wiki/entities/andre_karpathy.md
 - Updated pages: none
 
-## [2026-04-21] session | Continued wiki maintenance
+## [2026-04-21] ingest | free_access sources (4 files)
 
-- Loose files moved to infrastructure/: CLIPROXYAPIPLUS-WINDOWS-SETUP.md, VIBEPROXY-CLAUDE-CODE-SETUP.md
-- Memory system initialized
-- Raw/ state verified, no new sources to process
+- Type: youtube/matvey_shulga, youtube/igor_zuevich, youtube/justai, youtube/dressirovshik
+- Topics: [claude-routines, gemini-cli, openrouter, vibeproxy, free-access]
+- New pages:
+  - wiki/sources/gemini_cli.md
+  - wiki/sources/claude_routines.md
+  - wiki/sources/claude_code_openrouter.md
+  - wiki/sources/otmenil_podpisku_na_claude.md
+- Updated pages: free_access_methods.md (added sources), index.md (cleaned duplicates)
 
 ## [2026-04-20] init | Wiki initialized
 

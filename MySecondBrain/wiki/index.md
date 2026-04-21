@@ -22,9 +22,10 @@
 - [[claude_code_karpathy_obsidian|claude_code_karpathy_obsidian.md]] — Jack Roberts' practical guide | lang: en | date: 2026-04-18
 - [[qwenclaw_tutorial|qwenclaw_tutorial.md]] — QwenClaw (deprecated: free limits cut) | lang: ru | date: 2026-04-12
 - [[cliclaw_tutorial|cliclaw_tutorial.md]] — CliClaw: multi-model Telegram agent | lang: ru | date: 2026-04-19
-- [[gemini_cli_tutorial|gemini_cli_tutorial.md]] — Gemini CLI: 2M context, free | lang: ru | date: 2026-04-18
-- [[vibe_proxy_tutorial|vibe_proxy_tutorial.md]] — Vibe Proxy: bypass AntiGravity limits | lang: ru | date: 2026-01-10
-- [[tradingview_claude_integration|tradingview_claude_integration.md]] — TradingView + Claude Code via MCP | lang: ru | date: 2026-04-20
+- [[gemini_cli|gemini_cli.md]] — Gemini CLI: 2M context, free | lang: ru | date: 2026-04-21
+- [[claude_routines|claude_routines.md]] — Claude Routines: автоматизации 24/7 | lang: ru | date: 2026-04-21
+- [[claude_code_openrouter|claude_code_openrouter.md]] — Claude Code + OpenRouter | lang: ru | date: 2026-04-21
+- [[otmenil_podpisku_na_claude|otmenil_podpisku_na_claude.md]] — Vibe Proxy: отмена подписки | lang: ru | date: 2026-04-21
 - [[ai_trading_assistant_blueprint|ai_trading_assistant_blueprint.md]] — SMB Capital: AI for operational efficiency | lang: en | date: 2026-04-18
 - [[vpn_setup_with_claude_code|vpn_setup_with_claude_code.md]] — Claude Code sets up VLESS Reality VPN | lang: ru | date: 2026-02-10
 

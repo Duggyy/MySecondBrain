@@ -3,6 +3,7 @@ title: "Свободный доступ к AI-моделям"
 type: concept
 tags: [free-access, claude-code, gemini, openrouter, antigravity]
 lang: ru
+sources: [gemini_cli_tutorial.md, cliclaw_tutorial.md, vibe_proxy_tutorial.md, claude_routines.md, claude_code_openrouter.md, otmenil_podpisku_na_claude.md]
 created: 2026-04-20
 ---
 

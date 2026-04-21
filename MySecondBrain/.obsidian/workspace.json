@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
+                    "file": "raw/free_access/Claude Routines.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля"
+                  "title": "Claude Routines"
                 }
               }
             ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
+                "file": "raw/free_access/Claude Routines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля"
+              "title": "Обратные ссылки для Claude Routines"
             }
           },
           {
@@ -325,9 +325,16 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
+    "wiki/sources/gemini_cli.md",
+    "wiki/sources/claude_routines.md",
+    "wiki/sources/otmenil_podpisku_na_claude.md",
+    "wiki/sources/claude_code_openrouter.md",
+    "raw/free_access/Claude Code + OpenRouter.md",
+    "raw/documents/TradingView MCP.pdf",
+    "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
+    "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
     "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
     "raw/free_access/Claude Routines.md",
-    "raw/free_access/Claude Code + OpenRouter.md",
     "raw/free_access/Я ОТМЕНИЛ подписку на Claude!.md",
     "raw/free_access/Gemini CLI.md",
     "raw/free_access/Claude Routines автоматизация.md",
@@ -345,13 +352,6 @@
     "raw/free_access/Run Gemma 4 31B FREE in Claude Code — No GPU Needed (Ollama Cloud).md",
     "raw/free_access/Gemini CLI полностью бесплатный аналог Claude Code и Codex  Полная настройка Gemini CLI.md",
     "raw/free_access/Claude Routines автоматизируй ВСЁ за 5 минут.md",
-    "raw/free_access/Claude Code НАВСЕГДА бесплатно мощный AI-агент для работы без ограничений (полная инструкция).md",
-    "raw/free_access/Claude Code бесплатно бесплатный AI-агент для работы без ограничений (полная инструкция).md",
-    "raw/free_access/Claude Code + OpenRouter = FREE FOREVER (Unlimited Power).md",
-    "raw/free_access/100% FREE Claude Code? Yes — Here’s How.md",
-    "raw/documents/TradingView MCP.pdf",
-    "raw/ai_agents/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
-    "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
     "raw/ide_integrations",
     "raw/knowledge_base",
     "raw/infrastructure",

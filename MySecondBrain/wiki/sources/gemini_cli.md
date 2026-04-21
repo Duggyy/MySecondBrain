@@ -1,0 +1,41 @@
+---
+title: Gemini CLI
+type: source
+tags: [gemini-cli, free-access, google, telegram]
+lang: ru
+created: 2026-04-21
+sources: [Gemini CLI.md]
+---
+
+# Gemini CLI — бесплатный AI-агент
+
+## Ситуация
+Нужен бесплатный AI-агент с функционалом как у Claude Code
+
+## Решение
+Gemini CLI — бесплатный CLI от Google с 2M токенов контекстом
+
+## Преимущества
+- 2,000,000 токенов контекст (vs 200,000 у Claude)
+- Бесплатно: 1000 запросов/день
+- Встроенный доступ к Gmail, Drive, Docs
+- Telegram бот для управления
+
+## Установка на сервере
+1. Сервер (USA, Ubuntu 24.04) ~$1/мес
+2. `curl https://ollama.ai/install.sh | sh`
+3. `npm install -g @google/gemini-cli`
+4. Авторизация через Google
+5. Настройка через файлы (12 файлов для полной настройки)
+
+## Telegram Bridge
+1. @BotFather → создать бота, получить токен
+2. @userinfobot → узнать свой Chat ID
+3. Настроить мост внутри Gemini CLI
+4. Команды бота появляются автоматически
+
+## Модели
+- Gemini 3.1 Pro — бесплатно, 1000 запросов/день
+
+## Источник
+Игорь Зуевич, 2026-04-18

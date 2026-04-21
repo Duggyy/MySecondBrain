@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
+                    "file": "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS)"
+                  "title": "Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля"
                 }
               }
             ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
+                "file": "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS)"
+              "title": "Обратные ссылки для Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля"
             }
           },
           {
@@ -323,12 +323,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa539a0591c8173a",
+  "active": "846a792dbbd879a3",
   "lastOpenFiles": [
+    "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
+    "raw/free_access/Claude Routines.md",
+    "raw/free_access/Claude Code + OpenRouter.md",
+    "raw/free_access/Я ОТМЕНИЛ подписку на Claude!.md",
     "raw/free_access/Gemini CLI.md",
     "raw/free_access/Claude Routines автоматизация.md",
     "raw/free_access/Claude Code НАВСЕГДА бесплатно.md",
-    "raw/free_access/Я ОТМЕНИЛ подписку на Claude!.md",
     "raw/infrastructure/VIBEPROXY-CLAUDE-CODE-SETUP.md",
     "raw/infrastructure/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
     "raw/trading/How To Build Your Own Claude AI Trading Assistant (Easy For Beginners).md",
@@ -336,7 +339,6 @@
     "raw/trading/Как подключить Claude Code к TradingView (это меняет правила игры).md",
     "raw/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
     "raw/VIBEPROXY-CLAUDE-CODE-SETUP.md",
-    "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
     "raw/ide_integrations/Как продолжить пользоваться Cursor бесплатно 🔥  Обход лимита и установка Cursor Free VIP.md",
     "raw/free_access/Я ОТМЕНИЛ подписку на Claude! Как получить Opus 4.5 БЕСПЛАТНО (Antigravity auth).md",
     "raw/free_access/Получи бесплатно API для любой ИИ-модели (2026 Claude, OpenAI, Gemini и другие).md",
@@ -350,8 +352,6 @@
     "raw/documents/TradingView MCP.pdf",
     "raw/ai_agents/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
     "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
-    "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
-    "CLAUDE.md",
     "raw/ide_integrations",
     "raw/knowledge_base",
     "raw/infrastructure",

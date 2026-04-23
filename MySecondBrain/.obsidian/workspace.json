@@ -70,7 +70,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Claude Code"
+                  "title": "Terminal: zsh"
                 }
               },
               {
@@ -323,7 +323,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "846a792dbbd879a3",
+  "active": "aa539a0591c8173a",
   "lastOpenFiles": [
     "raw/trading/Duggyyclaude-tradingview-mcp-trading Connect Claude Code to TradingView and execute trades automatically via BitGet.md",
     "raw/Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN.md",

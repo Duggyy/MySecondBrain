@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN.md",
+                    "file": "Clippings/Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN"
+                  "title": "Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут"
                 }
               }
             ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN.md",
+                "file": "Clippings/Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN"
+              "title": "Обратные ссылки для Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут"
             }
           },
           {
@@ -323,35 +323,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa539a0591c8173a",
+  "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "raw/trading/Duggyyclaude-tradingview-mcp-trading Connect Claude Code to TradingView and execute trades automatically via BitGet.md",
+    "Clippings/Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут.md",
+    "Clippings",
+    "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
+    "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
+    "raw/ai_agents/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
     "raw/Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN.md",
-    "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
+    "raw/infrastructure/Я создал VPN с помощью нейросети и он работает!.md",
+    "raw/infrastructure/Полная настройка антидетект-браузера ADS-Power + всё что нужно знать про этот браузер.md",
+    "raw/infrastructure/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
+    "raw/infrastructure/VIBEPROXY-CLAUDE-CODE-SETUP.md",
+    "raw/infrastructure/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
+    "raw/infrastructure/⚙️Настройка Прокси в ADS Power.md",
+    "raw/ide_integrations/Как продолжить пользоваться Cursor бесплатно 🔥  Обход лимита и установка Cursor Free VIP.md",
+    "raw/free_access/Я ОТМЕНИЛ подписку на Claude!.md",
+    "raw/free_access/Gemini CLI.md",
+    "raw/free_access/Claude Routines.md",
+    "raw/free_access/Claude Code + OpenRouter.md",
+    "raw/documents/TradingView MCP.pdf",
     "CLAUDE.md",
+    "raw/trading/Duggyyclaude-tradingview-mcp-trading Connect Claude Code to TradingView and execute trades automatically via BitGet.md",
+    "raw/trading/Combine Multiple Indicators into a Trading Strategy with AI (IT WORKS).md",
     "Welcome.md",
     "raw/knowledge_base/KARPATHY-llm-wiki.md",
     "raw/knowledge_base/Claude Code + Karpathy's Obsidian = New Meta.md",
-    "raw/ai_agents/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
-    "raw/free_access/Claude Code + OpenRouter.md",
-    "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
-    "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
-    "raw/documents/TradingView MCP.pdf",
-    "raw/free_access/Claude Routines.md",
     "wiki/sources/gemini_cli.md",
     "wiki/sources/claude_routines.md",
     "wiki/sources/otmenil_podpisku_na_claude.md",
     "wiki/sources/claude_code_openrouter.md",
-    "raw/free_access/Я ОТМЕНИЛ подписку на Claude!.md",
-    "raw/free_access/Gemini CLI.md",
-    "raw/free_access/Claude Routines автоматизация.md",
-    "raw/free_access/Claude Code НАВСЕГДА бесплатно.md",
-    "raw/infrastructure/VIBEPROXY-CLAUDE-CODE-SETUP.md",
-    "raw/infrastructure/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
-    "raw/trading/How To Build Your Own Claude AI Trading Assistant (Easy For Beginners).md",
-    "raw/trading/I Automated My Pre-Market Research With AI (Here's How).md",
-    "raw/trading/Как подключить Claude Code к TradingView (это меняет правила игры).md",
-    "raw/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
     "raw/ide_integrations",
     "raw/knowledge_base",
     "raw/infrastructure",
@@ -360,7 +361,6 @@
     "raw/claude_code",
     "raw/ai_agents",
     "wiki/trends",
-    "wiki/synthesis",
     "Без названия.canvas"
   ]
 }

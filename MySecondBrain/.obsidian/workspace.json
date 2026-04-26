@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Clippings/Claude Code + Ollama = FULL LOCAL AI AGENT.md",
+                    "file": "raw/Claude Code Setup on PC Best AI Coding Agent (No Subscription).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Claude Code + Ollama = FULL LOCAL AI AGENT"
+                  "title": "Claude Code Setup on PC Best AI Coding Agent (No Subscription)"
                 }
               }
             ]
@@ -70,7 +70,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Claude Code"
+                  "title": "Terminal: zsh"
                 }
               },
               {
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Claude Code + Ollama = FULL LOCAL AI AGENT.md",
+                "file": "raw/Claude Code Setup on PC Best AI Coding Agent (No Subscription).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Claude Code + Ollama = FULL LOCAL AI AGENT"
+              "title": "Обратные ссылки для Claude Code Setup on PC Best AI Coding Agent (No Subscription)"
             }
           },
           {
@@ -325,8 +325,9 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "Clippings/Claude Cowork + Ollama = 100% FREE & PRIVATE (Full Setup).md",
     "Clippings/Claude Code + Ollama = FULL LOCAL AI AGENT.md",
+    "raw/Claude Code Setup on PC Best AI Coding Agent (No Subscription).md",
+    "Clippings/Claude Cowork + Ollama = 100% FREE & PRIVATE (Full Setup).md",
     "Clippings/20+ БЕСПЛАТНЫХ нейросетей БЕЗ ЦЕНЗУРЫ, которые заменят ВСЁ НЕЙРОРАЗВЕДКА  Новости ИИ.md",
     "Clippings/Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут.md",
     "Clippings",
@@ -352,7 +353,6 @@
     "Welcome.md",
     "raw/knowledge_base/KARPATHY-llm-wiki.md",
     "raw/knowledge_base/Claude Code + Karpathy's Obsidian = New Meta.md",
-    "wiki/sources/gemini_cli.md",
     "raw/ide_integrations",
     "raw/knowledge_base",
     "raw/infrastructure",

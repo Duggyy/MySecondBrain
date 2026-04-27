@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/Claude автоматизировал весь мой YouTube. Контент-завод за 14 мин.md",
+                    "file": "Clippings/Free GPU + Your Own AI API in 15 Minutes.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Claude автоматизировал весь мой YouTube. Контент-завод за 14 мин"
+                  "title": "Free GPU + Your Own AI API in 15 Minutes"
                 }
               }
             ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Claude автоматизировал весь мой YouTube. Контент-завод за 14 мин.md",
+                "file": "Clippings/Free GPU + Your Own AI API in 15 Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Claude автоматизировал весь мой YouTube. Контент-завод за 14 мин"
+              "title": "Обратные ссылки для Free GPU + Your Own AI API in 15 Minutes"
             }
           },
           {
@@ -325,8 +325,10 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "raw/UNLIMITED FREE Deepseek-V4 PRO AI Coder THIS IS CRAZY!.md",
     "raw/Claude автоматизировал весь мой YouTube. Контент-завод за 14 мин.md",
+    "Clippings/Free GPU + Your Own AI API in 15 Minutes.md",
+    "Clippings",
+    "raw/UNLIMITED FREE Deepseek-V4 PRO AI Coder THIS IS CRAZY!.md",
     "raw/Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN.md",
     "raw/Claude Code + Ollama = FULL LOCAL AI AGENT.md",
     "raw/Claude Code Setup on PC Best AI Coding Agent (No Subscription).md",
@@ -336,7 +338,6 @@
     "raw/keenetic-devbypass_keenetic_dev Установка обхода блокировок на роутерах Keenetic с установленной средой Entware, управление через телеграм бот!.md",
     "raw/20+ БЕСПЛАТНЫХ нейросетей БЕЗ ЦЕНЗУРЫ, которые заменят ВСЁ НЕЙРОРАЗВЕДКА  Новости ИИ.md",
     "raw/Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут.md",
-    "Clippings",
     "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
     "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
     "raw/ai_agents/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
@@ -352,7 +353,6 @@
     "raw/free_access/Claude Routines.md",
     "raw/free_access/Claude Code + OpenRouter.md",
     "raw/documents/TradingView MCP.pdf",
-    "CLAUDE.md",
     "raw/ide_integrations",
     "raw/knowledge_base",
     "raw/infrastructure",

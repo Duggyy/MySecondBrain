@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/OpenAI Codex The Best for AI Trading Strategies? (watch ASAP).md",
+                    "file": "raw/Роутер с VPN за копейки. Рабочая инструкция по прошивке OpenWrt+Podkop.2026.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "OpenAI Codex The Best for AI Trading Strategies? (watch ASAP)"
+                  "title": "Роутер с VPN за копейки. Рабочая инструкция по прошивке OpenWrt+Podkop.2026"
                 }
               }
             ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/OpenAI Codex The Best for AI Trading Strategies? (watch ASAP).md",
+                "file": "raw/Роутер с VPN за копейки. Рабочая инструкция по прошивке OpenWrt+Podkop.2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для OpenAI Codex The Best for AI Trading Strategies? (watch ASAP)"
+              "title": "Обратные ссылки для Роутер с VPN за копейки. Рабочая инструкция по прошивке OpenWrt+Podkop.2026"
             }
           },
           {
@@ -325,8 +325,9 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "raw/Jesse 2.0 Is Here! Algo-trading reimagined.md",
     "raw/OpenAI Codex The Best for AI Trading Strategies? (watch ASAP).md",
+    "raw/Роутер с VPN за копейки. Рабочая инструкция по прошивке OpenWrt+Podkop.2026.md",
+    "raw/Jesse 2.0 Is Here! Algo-trading reimagined.md",
     "raw/Run Gemma 4 with MLX on Mac in 5 Minutes - Apple silicon MacMacbookMac Mini.md",
     "raw/Someone open-sourced a hedge fund — I ran it locally on Qwen3 with Ollama.md",
     "raw/I Built a Local AI Agent with Gemma 4 — Runs Fully Offline.md",
@@ -351,7 +352,6 @@
     "raw/Хватит искать рабочий VPN! Свой сервер на 30 человек за 10 минут.md",
     "raw/ai_agents/Готовый ИИ-агент бесплатно за 10 мин  QwenClaw с нуля.md",
     "raw/ai_agents/Как сделать СВОЁ ПРИЛОЖЕНИЕ со всеми НЕЙРОСЕТЯМИ копия SYNTX.md",
-    "raw/ai_agents/Создай AI-агента за 10 минут бесплатно  CliClaw гайд 2026.md",
     "raw/documents/TradingView MCP.pdf",
     "raw/ide_integrations",
     "raw/knowledge_base",

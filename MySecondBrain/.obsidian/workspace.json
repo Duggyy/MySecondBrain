@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Clippings/Крипто карта Pionex  Пошаговая инструкция к получению за 3 минуты.md",
+                    "file": "raw/I Built a Local AI Agent with Gemma 4 — Runs Fully Offline.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Крипто карта Pionex  Пошаговая инструкция к получению за 3 минуты"
+                  "title": "I Built a Local AI Agent with Gemma 4 — Runs Fully Offline"
                 }
               }
             ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Крипто карта Pionex  Пошаговая инструкция к получению за 3 минуты.md",
+                "file": "raw/I Built a Local AI Agent with Gemma 4 — Runs Fully Offline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Крипто карта Pionex  Пошаговая инструкция к получению за 3 минуты"
+              "title": "Обратные ссылки для I Built a Local AI Agent with Gemma 4 — Runs Fully Offline"
             }
           },
           {
@@ -325,8 +325,10 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "Clippings/Бесплатный антидетект браузер БЕЗ ЛИМИТОВ профилей 🔥 Donut Browser.md",
+    "Clippings/Настройка VS Code для работы с локальными нейросетями.md",
+    "raw/I Built a Local AI Agent with Gemma 4 — Runs Fully Offline.md",
     "Clippings/Крипто карта Pionex  Пошаговая инструкция к получению за 3 минуты.md",
+    "Clippings/Бесплатный антидетект браузер БЕЗ ЛИМИТОВ профилей 🔥 Donut Browser.md",
     "Clippings/Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep).md",
     "raw/5 кейсов успешного применения Claude Code в трейдинге.md",
     "Clippings/I Fine-Tuned Gemma 4 on Human Psychology Data (🦥Unsloth Studio) A-Z Guide.md",
@@ -350,8 +352,6 @@
     "raw/infrastructure/Полная настройка антидетект-браузера ADS-Power + всё что нужно знать про этот браузер.md",
     "raw/infrastructure/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
     "raw/infrastructure/VIBEPROXY-CLAUDE-CODE-SETUP.md",
-    "raw/infrastructure/CLIPROXYAPIPLUS-WINDOWS-SETUP.md",
-    "raw/infrastructure/⚙️Настройка Прокси в ADS Power.md",
     "raw/documents/TradingView MCP.pdf",
     "raw/ide_integrations",
     "raw/knowledge_base",

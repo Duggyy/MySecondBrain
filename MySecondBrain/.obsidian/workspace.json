@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep).md",
+                    "file": "raw/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep)"
+                  "title": "Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!"
                 }
               }
             ]
@@ -233,7 +233,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep)"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -323,8 +322,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa539a0591c8173a",
+  "active": "6b8a012407a59c14",
   "lastOpenFiles": [
+    "raw/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
+    "raw/Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep).md",
     "raw/Telegram + Claude Code база знаний по методу Карпати за 10 минут.md",
     "raw/Мощный AI-агент с бесплатными моделями под капотом  CliClaw за 10 минут.md",
     "raw/How to Build a POS System for Small Business – Claude Code + VS Code + Google Sheets.md",
@@ -338,7 +339,6 @@
     "raw/Настройка VS Code для работы с локальными нейросетями.md",
     "raw/Крипто карта Pionex  Пошаговая инструкция к получению за 3 минуты.md",
     "raw/Бесплатный антидетект браузер БЕЗ ЛИМИТОВ профилей 🔥 Donut Browser.md",
-    "raw/Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep).md",
     "raw/5 кейсов успешного применения Claude Code в трейдинге.md",
     "raw/I Fine-Tuned Gemma 4 on Human Psychology Data (🦥Unsloth Studio) A-Z Guide.md",
     "raw/Claude Cowork + Ollama+Tailscale = 100% FREE & PRIVATE (Full Setup).md",
@@ -351,7 +351,6 @@
     "raw/Claude Code Setup on PC Best AI Coding Agent (No Subscription).md",
     "raw/Claude Cowork - Гениальный приём с кастомным интерфейсом.md",
     "raw/Full AI Trading Course 2026 Master Agentic Trading.md",
-    "raw/keenetic-devbypass_keenetic_dev Установка обхода блокировок на роутерах Keenetic с установленной средой Entware, управление через телеграм бот!.md",
     "raw/documents/TradingView MCP.pdf",
     "raw/ide_integrations",
     "raw/knowledge_base",

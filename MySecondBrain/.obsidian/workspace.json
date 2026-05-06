@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "raw/garrytangbrain Garry's Opinionated OpenClawHermes Agent Brain.md",
+                    "file": "raw/How to upgrade your Lenovo Tiny PC?, No Mods, No 3D Printing! (TTS).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "garrytangbrain Garry's Opinionated OpenClawHermes Agent Brain"
+                  "title": "How to upgrade your Lenovo Tiny PC?, No Mods, No 3D Printing! (TTS)"
                 }
               }
             ]
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/garrytangbrain Garry's Opinionated OpenClawHermes Agent Brain.md",
+                "file": "raw/How to upgrade your Lenovo Tiny PC?, No Mods, No 3D Printing! (TTS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для garrytangbrain Garry's Opinionated OpenClawHermes Agent Brain"
+              "title": "Обратные ссылки для How to upgrade your Lenovo Tiny PC?, No Mods, No 3D Printing! (TTS)"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "846a792dbbd879a3",
   "lastOpenFiles": [
-    "raw/Low-code деплой  Вайб-кодинг с нуля.md",
     "raw/garrytangbrain Garry's Opinionated OpenClawHermes Agent Brain.md",
+    "raw/How to upgrade your Lenovo Tiny PC?, No Mods, No 3D Printing! (TTS).md",
+    "raw/Low-code деплой  Вайб-кодинг с нуля.md",
     "raw/Забудьте про готовые VPN. ИИ-агент настроит вам личный за 10 минут!.md",
     "raw/Claude AI can NOW Automatically Build and Improve Your TradingView Strategies (while you sleep).md",
     "raw/Telegram + Claude Code база знаний по методу Карпати за 10 минут.md",
@@ -267,7 +268,6 @@
     "raw/UNLIMITED FREE Deepseek-V4 PRO AI Coder THIS IS CRAZY!.md",
     "raw/Получаем БЕСПЛАТНО Claude Opus 4.6+ и Claude Code  GPT 5.4  KIMI  QWEN.md",
     "raw/Claude Code + Ollama = FULL LOCAL AI AGENT.md",
-    "raw/Claude Code Setup on PC Best AI Coding Agent (No Subscription).md",
     "raw/documents/TradingView MCP.pdf",
     "raw/ide_integrations",
     "raw/knowledge_base",

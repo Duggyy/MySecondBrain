@@ -149,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Новости ИИ Claude Code взломал BTC кошелек, Глобальное ИИ-обновление Android, Codex в телефоне.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Новости ИИ Claude Code взломал BTC кошелек, Глобальное ИИ-обновление Android, Codex в телефоне"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -239,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "846a792dbbd879a3",
+  "active": "279d71a2ab99231d",
   "lastOpenFiles": [
-    "raw/Professor Jiang World War 3 Is About To Begin, Let Me Explain!.md",
     "raw/Новости ИИ Claude Code взломал BTC кошелек, Глобальное ИИ-обновление Android, Codex в телефоне.md",
+    "raw/Professor Jiang World War 3 Is About To Begin, Let Me Explain!.md",
     "raw/Установка в грузовик и тест в дороге роутера Микродрайв Тандем 4GX шестой категории..md",
     "raw/ИИ-агент на твоем ПК БЕСПЛАТНО – Claude Code + Gemma 4.md",
     "raw/Private AI on the go… a new trick.md",

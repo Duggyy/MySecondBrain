@@ -52,6 +52,25 @@
   - wiki/entities/andre_karpathy.md
 - Updated pages: none
 
+## [2026-05-18] ingest | 54 new sources batch
+
+- Type: mixed (youtube transcriptions, documents, guides)
+- Topics: [claude-code, local-ai, trading, infrastructure, agents, models, privacy, automation]
+- New pages (54 total):
+  - **Claude Code & Local AI**: claude_code_ollama_local_agent, gemma4_local_ai_agent, claude_code_vps_vpn_setup, claude_code_setup_guide, claude_code_trading_case_studies, claude_tradingview_bitget_integration, claude_code_tradingview_guide, claude_youtube_automation, claude_cowork_custom_ui, claude_cowork_ollama_tailscale
+  - **Trading & Algo**: alex_carter_agentic_trading_course, jesse_2_algo_trading, combine_indicators_ai_trading, ai_premarket_research_automation, claude_tradingview_strategies_auto, open_source_hedge_fund_qwen, openai_codex_trading
+  - **Models & Fine-tuning**: gemma4_finetuning_psychology, gemma4_mlx_mac, free_uncensored_models_overview, free_premium_models_access, deepseek_v4_free_coder
+  - **AI Agents**: qwenclaw_telegram_agent, cliclaw_setup_2026, cliclaw_powerful_free_agent, custom_ai_app_like_syntx, ai_agent_pc_free, telegram_kb_karpathy_method, garry_openclaw_hermes_opinion
+  - **Infrastructure & Privacy**: free_gpu_ai_api, vibeproxy_claude_code_setup, ads_power_setup, ads_power_proxy_setup, cliproxyapiplus_windows, ai_vpn_creation, router_vpn_openwrt_cheap, vpn_server_30_people, keenetic_bypass_entware, donut_browser_free, private_ai_mobile
+  - **Tools & Other**: vscode_local_models_setup, pos_system_claude_sheets, obsidian_custom_save_commands, low_code_deploy_vibe, lenovo_tiny_pc_upgrade, mikrodrive_tandem_router_test, pionex_crypto_card, professor_jiang_geopolitics, ai_news_claude_security, neurorazvedka_ai_news, dressirovshik_neyrosetey_channel, knowledge_base_materials, jesse_2_part1_duplicate, personal_vpn_ai_setup_duplicate
+- Updated pages: index.md (added 54 new sources organized by category)
+- Topics identified:
+  - Claude Code as autonomous agent (major pattern)
+  - Local AI / privacy-first (major trend)
+  - Agentic trading systems (new category)
+  - Institutional-grade stack for trading (new)
+  - Infrastructure automation with AI (major)
+
 ## [2026-04-21] ingest | free_access sources (4 files)
 
 - Type: youtube/matvey_shulga, youtube/igor_zuevich, youtube/justai, youtube/dressirovshik
